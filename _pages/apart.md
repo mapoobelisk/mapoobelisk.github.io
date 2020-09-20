@@ -23,7 +23,7 @@ toc: true
 
 ## 저층
 
-![아파트 저층](/assets/images/apart_low.jpg)
+![아파트 저층](/assets/images/apart_low.png)
 
 | 호수 | 주택형(평) | 전용면적(㎡) | 구조 | 화장실 | 향 |
 | ---- | ---- | ---- |  ---- |  ---- |  ---- |
@@ -47,7 +47,7 @@ toc: true
 
 ## 고층
 
-![아파트 저층](/assets/images/apart_high.jpg)
+![아파트 저층](/assets/images/apart_high.png)
 
 | 호수 | 주택형(평) | 전용면적(㎡) | 구조 | 화장실 | 향 |
 | ---- | ---- | ---- |  ---- |  ---- |  ---- |
@@ -67,7 +67,7 @@ toc: true
 
 ## 최고층
 
-![아파트 최고층](/assets/images/apart_top.jpg)
+![아파트 최고층](/assets/images/apart_top.png)
 
 | 호수 | 주택형(평) | 전용면적(㎡) | 구조 | 화장실 | 향 |
 | ---- | ---- | ---- |  ---- |  ---- |  ---- |
