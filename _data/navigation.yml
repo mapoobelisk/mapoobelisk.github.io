@@ -12,7 +12,7 @@ main:
      url: /office/
    - title: "상업시설"
      url: /store/
-   - title: "참고자료"
+   - title: "블로그"
      url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/

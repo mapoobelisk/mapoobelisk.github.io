@@ -2,50 +2,39 @@
 permalink: /about/
 title: "단지정보"
 excerpt: "마포역과 연결된 주상복합 단지"
-#layouts_gallery:
-#  - url: /assets/images/mm-layout-splash.png
-#    image_path: /assets/images/mm-layout-splash.png
-#    alt: "splash layout example"
-#  - url: /assets/images/mm-layout-single-meta.png
-#    image_path: /assets/images/mm-layout-single-meta.png
-#    alt: "single layout with comments and related posts"
-#  - url: /assets/images/mm-layout-archive.png
-#    image_path: /assets/images/mm-layout-archive.png
-#    alt: "archive layout example"
 last_modified_at: 2020-09-20T16:18:00-04:00
 toc: true
-# {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-#[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 ---
 
 마포한화오벨리스크는 마포역과 연결된 주상복합 단지입니다.
+
 훌륭한 교통과 주변환경, 더욱 발전하는 교육여건과 뛰어난 미래가치를 누리십시오.
 
 ---
 
 ## 입지
 
-# 교통여건
+### 교통여건
 
 - 마포역(5호선), 공덕역(5,6호선,공항철도,경의중앙선)
 - 여의도, 상암, 신촌, 시청, 용산, 인천공항행 버스
 - 강변북로, 내부순환로, 올림픽로, 북부간선로 이용
 
-# 주변환경
+### 주변환경
 
 - 한강 시민 공원
 - 경의선 공원
 - 이마트 마포공덕점
 - 마포 먹자골목
 
-# 교육여건
+### 교육여건
 
 - 염리초등학교 배정
 - 공덕역-대흥역-숭문고 학원가 도보 이용
 
-# 미래가치
+### 미래가치
 
-- 공덕역 신안산선 연장
+- 공덕역 신안산선 연장 계획
 - 여의도 통개발 계획
 - 일반상업지역내 위치
 
