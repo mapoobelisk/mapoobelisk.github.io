@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -121,6 +121,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "나무위키"
+      icon: "fas fa-fw fa-link"
+      url: "https://namu.wiki/w/%EB%A7%88%ED%8F%AC%20%ED%95%9C%ED%99%94%20%EC%98%A4%EB%B2%A8%EB%A6%AC%EC%8A%A4%ED%81%AC"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
