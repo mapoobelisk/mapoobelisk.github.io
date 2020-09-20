@@ -6,7 +6,7 @@ last_modified_at: 2020-09-20T18:58:00-04:00
 toc: true
 ---
 
-- ![조감도](/assets/image/view.jpg)
+![조감도](/assets/image/view.jpg)
 
 마포한화오벨리스크는 마포역과 직접 연결된 주상복합 단지입니다.
 
@@ -16,7 +16,7 @@ toc: true
 
 ## 입지
 
-- ![지도](/assets/image/location.jpg)
+![지도](/assets/image/location.jpg)
 
 ### 교통여건
 
@@ -65,7 +65,7 @@ toc: true
 
 ## 단지 약도
 
-- ![지도](/assets/image/map.jpg)
+![지도](/assets/image/map.jpg)
 
 ---
 
