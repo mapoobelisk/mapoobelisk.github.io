@@ -6,10 +6,10 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "단지정보"
      url: /about/
-   - title: "아파트"
-     url: /apart/
-   - title: "오피스텔"
-     url: /office/
+   - title: "주거시설"
+     url: /house/
+#   - title: "오피스텔"
+#     url: /office/
    - title: "상업시설"
      url: /store/
    - title: "블로그"
