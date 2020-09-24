@@ -4,11 +4,6 @@ layout: archive
 
 {{ content }}
 
-<style>
-a{color:#d67f05}
-a:visited{color:#d67f05}a:hover{color:#e79016;outline:0}
-</style>
-
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
