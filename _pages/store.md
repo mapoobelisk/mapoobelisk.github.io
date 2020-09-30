@@ -12,6 +12,10 @@ toc: true
 
 ## 지하 1층
 
+![상가 입구](/assets/images/store_in.jpg)
+
+지하상가 입구는 마포역과 직접 연결되어 있습니다.
+
 ![지하1층](/assets/images/map_b1.jpg)
 
 | 호수 | 상호 | 종류 | 전화번호 |
