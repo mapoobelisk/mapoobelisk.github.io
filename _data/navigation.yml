@@ -14,7 +14,7 @@ main:
      url: /store/
    - title: "블로그"
      url: /year-archive/
-   - title: "갤러리"
+   - title: "사진첩"
      url: /gallery/
   # - title: "Sample Collections"
   #   url: /collection-archive/

@@ -120,3 +120,12 @@ toc: true
 전기차 충전기는 지하 6층에 5자리 있습니다.
 
 ![주차장](/assets/images/map_park.jpg)
+
+---
+
+## 화재 대피 안내
+
+○ 소화기
+□ 피난계단
+
+![화재 대피](/assets/images/fire.jpg)
