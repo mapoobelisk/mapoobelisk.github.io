@@ -2,11 +2,13 @@
 permalink: /gallery/
 title: "사진첩"
 excerpt: "사진첩"
-last_modified_at: 2020-12-02T18:58:00-04:00
+last_modified_at: 2020-12-05T14:58:00-04:00
 toc: true
 ---
 
 ## 외형
+
+![외형](/assets/images/home.jpg)
 
 ![외형](/assets/images/gallery/외01.jpg)
 
