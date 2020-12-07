@@ -2,7 +2,7 @@
 permalink: /house/
 title: "주거시설"
 excerpt: "아파트동 및 오피스텔동"
-last_modified_at: 2020-09-20T20:13:00-04:00
+last_modified_at: 2020-12-07T20:13:00-04:00
 toc: true
 ---
 
@@ -123,9 +123,9 @@ toc: true
 
 ---
 
-## 화재 대피 안내
+## 화재 대피
 
 ○ 소화기
-□ 피난계단
+□ 대피계단
 
 ![화재 대피](/assets/images/fire.jpg)

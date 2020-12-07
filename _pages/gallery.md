@@ -2,7 +2,7 @@
 permalink: /gallery/
 title: "사진첩"
 excerpt: "사진첩"
-last_modified_at: 2020-12-05T14:58:00-04:00
+last_modified_at: 2020-12-07T14:58:00-04:00
 toc: true
 ---
 
